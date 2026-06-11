@@ -31,34 +31,34 @@ Deployed a fully functional ticketing system using osTicket on an Ubuntu 22.04 L
 ## Screenshots
 
 ### Apache Web Server Running
-![Apache Running](screenshots/apache-running.png)
+![Apache Running](apache-running.png)
 
 ### osTicket Prerequisites
-![Prerequisites](screenshots/osticket-prerequisites.png)
+![Prerequisites](osticket-prerequisites.png)
 
 ### Installation Complete
-![Installation Complete](screenshots/osticket-installation-complete.png)
+![Installation Complete](osticket-installation-complete.png)
 
 ### Admin Panel
-![Admin Panel](screenshots/admin-panel.png)
+![Admin Panel](admin-panel.png)
 
 ### Departments
-![Departments](screenshots/departments.png)
+![Departments](departments.png)
 
 ### Agents
-![Agents](screenshots/agents.png)
+![Agents](agents.png)
 
 ### Ticket Submitted by End User
-![Ticket Created](screenshots/ticket-created.png)
+![Ticket Created](ticket-created.png)
 
 ### Open Ticket Queue
-![Open Tickets](screenshots/open-tickets.png)
+![Open Tickets](open-tickets.png)
 
 ### Resolved - Account Lockout
-![Ticket Resolved Lockout](screenshots/ticket-resolved-lockout.png)
+![Ticket Resolved Lockout](ticket-resolved-lockout.png)
 
 ### Resolved - Software Installation
-![Ticket Resolved Software](screenshots/ticket-resolved-software.png)
+![Ticket Resolved Software](ticket-resolved-software.png)
 
 ### All Tickets Closed
-![Closed Tickets](screenshots/closed-tickets.png)
+![Closed Tickets](closed-tickets.png)
